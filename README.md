@@ -1,0 +1,2 @@
+# wordpressexercise
+wordpress exercise 
