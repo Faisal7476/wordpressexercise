@@ -1,2 +1,4 @@
-# wordpressexercise
-wordpress exercise 
+WP- admin credentials
+
+username: admin
+password: admin
